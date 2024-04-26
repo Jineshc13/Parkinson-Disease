@@ -56,15 +56,6 @@ const Consultancy = () => {
               </div>
             </div>
           </div>
-          <div className="relative">
-            <img src="https://images.unsplash.com/photo-1612277795009-f95f2e8c4a02?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Carousel Image 2" className="w-full" />
-            <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50 flex justify-center items-center">
-              <div className="text-white text-center">
-                <h2 className="text-3xl font-bold mb-4">Carousel Content</h2>
-                <p className="text-lg">This is some content overlaid on the carousel image.</p>
-              </div>
-            </div>
-          </div>
           {/* Add more carousel slides as needed */}
         </Slider>
         <div className="container mx-auto px-4 py-8">
